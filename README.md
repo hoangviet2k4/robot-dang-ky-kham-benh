@@ -65,8 +65,8 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 
 Chạy các lệnh sau trong **Terminal (Command Prompt):**
 ```python
-pip install opencv-python flask python-docx
-
+$ pip install opencv-python flask python-docx
+'''
 ---
 
 ## 🚀 Cách chạy chương trình
