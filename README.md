@@ -61,13 +61,13 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 
 ---
 
-## 🧩 Cài đặt thư viện
+## 🍀 Cài đặt thư viện
 
-Chạy các lệnh sau trong Terminal (Command Prompt):
+Chạy các lệnh sau trong **Terminal (Command Prompt):**
 
 ```bash
 pip install opencv-python flask python-docx
-```bash
+
 
 ---
 
