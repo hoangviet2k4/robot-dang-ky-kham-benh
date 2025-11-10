@@ -63,11 +63,9 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 
 ## 🍀 Cài đặt thư viện
 
-Chạy các lệnh sau trong **Terminal (Command Prompt):**
-```python
-$ pip install opencv-python flask python-docx
-'''
----
+```sh
+$ npm install --save detect-file
+```
 
 ## 🚀 Cách chạy chương trình
 ### 🔹 Bước 1. Kiểm tra camera
