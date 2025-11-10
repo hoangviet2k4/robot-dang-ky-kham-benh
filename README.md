@@ -94,14 +94,19 @@ Bấm “Lưu phiếu” để lưu hồ sơ vào thư mục profiles/.
 ---
 
 ## 📂 Cấu trúc thư mục
+
+Dự án được tổ chức như sau:
+
+```plaintext
 Robot-DangKyKhamBenh/
 │
-├── code.py
-├── gialap.py
-├── phieu_dk.py
-├── tao_profile.py
-├── profiles/                 # Ảnh & hồ sơ JSON
-└── README.md
+├── code.py           # Điều khiển camera, các chế độ hiển thị (lật, xoay, chụp)
+├── gialap.py         # Mô phỏng robot chụp ảnh thủ công
+├── phieu_dk.py       # Tạo file Word "Phiếu đăng ký khám bệnh"
+├── tao_profile.py    # Hệ thống Flask quản lý hồ sơ và phát hiện chuyển động
+│
+├── profiles/         # Lưu ảnh chụp & hồ sơ bệnh nhân (.jpg, .json)
+└── README.md         # Hướng dẫn cài đặt và sử dụng
 
 ---
 
