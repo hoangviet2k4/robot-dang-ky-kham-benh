@@ -67,6 +67,7 @@ Chạy các lệnh sau trong Terminal (Command Prompt):
 
 ```bash
 pip install opencv-python flask python-docx
+```bash
 
 ---
 
