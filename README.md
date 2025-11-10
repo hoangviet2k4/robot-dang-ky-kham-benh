@@ -107,21 +107,21 @@ Robot-DangKyKhamBenh/
 │
 ├── profiles/         # Lưu ảnh chụp & hồ sơ bệnh nhân (.jpg, .json)
 └── README.md         # Hướng dẫn cài đặt và sử dụng
-
+```
 ---
 
 ## 🧠 Ý nghĩa đề tài
 
-Hỗ trợ tự động hóa quy trình tiếp nhận bệnh nhân
+* Hỗ trợ tự động hóa quy trình tiếp nhận bệnh nhân
 
-Giảm tải cho nhân viên y tế
+* Giảm tải cho nhân viên y tế
 
-Lưu trữ dữ liệu số hóa nhanh chóng và chính xác
+* Lưu trữ dữ liệu số hóa nhanh chóng và chính xác
 
-Có thể mở rộng:
+* Có thể mở rộng:
 
-Nhận diện khuôn mặt
+  * Nhận diện khuôn mặt
 
-Đăng ký lịch hẹn khám
+  * Đăng ký lịch hẹn khám
 
-Giao tiếp bằng giọng nói
+  * Giao tiếp bằng giọng nói
