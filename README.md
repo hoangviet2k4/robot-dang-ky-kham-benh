@@ -64,24 +64,22 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 ## 🍀 Cài đặt thư viện
 
 Chạy các lệnh sau trong **Terminal (Command Prompt):**
-
-```bash
 pip install opencv-python flask python-docx
 
 
 ---
 
 ## 🚀 Cách chạy chương trình
-** 🔹 Bước 1. Kiểm tra camera
+### 🔹 Bước 1. Kiểm tra camera
 python code.py
 
-** 🔹 Bước 2. Mô phỏng robot chụp ảnh thủ công
+### 🔹 Bước 2. Mô phỏng robot chụp ảnh thủ công
 python gialap.py
 
 
 → Nhấn c để chụp ảnh, q để thoát.
 
-** 🔹 Bước 3. Chạy hệ thống tự động hoàn chỉnh
+### 🔹 Bước 3. Chạy hệ thống tự động hoàn chỉnh
 python tao_profile.py
 
 
