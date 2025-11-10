@@ -1,4 +1,4 @@
-# 🤖 Robot Hỗ Trợ Đăng Ký Khám Bệnh
+#  Robot Hỗ Trợ Đăng Ký Khám Bệnh
 
 ## 📘 Giới thiệu
 
@@ -12,7 +12,7 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 
 ---
 
-## ⚙️ Thành phần hệ thống
+##  Thành phần hệ thống
 
 ### 🟦 1. `code.py` – Giao diện điều khiển camera
 - Mở camera và cho phép điều chỉnh chế độ hiển thị:
@@ -61,13 +61,13 @@ Hệ thống kết hợp giữa **Python + OpenCV + Flask**, phù hợp cho ứn
 
 ---
 
-## 🍀 Cài đặt thư viện
+##  Cài đặt thư viện
 
 ```sh
 $ pip install opencv-python flask python-docx
 ```
 
-## 🚀 Cách chạy chương trình
+##  Cách chạy chương trình
 ### 🔹 Bước 1. Kiểm tra camera
 ```sh
 $ python code.py
@@ -93,7 +93,7 @@ Bấm “Lưu phiếu” để lưu hồ sơ vào thư mục profiles/.
 
 ---
 
-## 📂 Cấu trúc thư mục
+##  Cấu trúc thư mục
 
 Dự án được tổ chức như sau:
 
@@ -110,7 +110,7 @@ Robot-DangKyKhamBenh/
 ```
 ---
 
-## 🧠 Ý nghĩa đề tài
+##  Ý nghĩa đề tài
 
 * Hỗ trợ tự động hóa quy trình tiếp nhận bệnh nhân
 
