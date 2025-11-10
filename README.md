@@ -68,17 +68,19 @@ Chạy các lệnh sau trong Terminal (Command Prompt):
 ```bash
 pip install opencv-python flask python-docx
 
-# 🚀 Cách chạy chương trình
- 🔹 Bước 1. Kiểm tra camera
+---
+
+## 🚀 Cách chạy chương trình
+** 🔹 Bước 1. Kiểm tra camera
 python code.py
 
- 🔹 Bước 2. Mô phỏng robot chụp ảnh thủ công
+** 🔹 Bước 2. Mô phỏng robot chụp ảnh thủ công
 python gialap.py
 
 
 → Nhấn c để chụp ảnh, q để thoát.
 
- 🔹 Bước 3. Chạy hệ thống tự động hoàn chỉnh
+** 🔹 Bước 3. Chạy hệ thống tự động hoàn chỉnh
 python tao_profile.py
 
 
@@ -88,7 +90,9 @@ Khi phát hiện chuyển động, robot sẽ tự chụp ảnh.
 
 Bấm “Lưu phiếu” để lưu hồ sơ vào thư mục profiles/.
 
-# 📂 Cấu trúc thư mục
+---
+
+## 📂 Cấu trúc thư mục
 Robot-DangKyKhamBenh/
 │
 ├── code.py
@@ -98,7 +102,9 @@ Robot-DangKyKhamBenh/
 ├── profiles/                 # Ảnh & hồ sơ JSON
 └── README.md
 
-# 🧠 Ý nghĩa đề tài
+---
+
+## 🧠 Ý nghĩa đề tài
 
 Hỗ trợ tự động hóa quy trình tiếp nhận bệnh nhân
 
